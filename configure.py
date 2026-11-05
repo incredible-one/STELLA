@@ -15,7 +15,7 @@ def print_banner():
      |___/ |_| |___|____|____/_/ \_\\
     A Conversational Multi-Agent AI Framework
     
-    >>> Visit https://docs.stellaframework.com/ for more information.
+    >>> Visit https://github.com/incredible-one/STELLA for more information.
     """
     print(banner)
 
@@ -139,7 +139,7 @@ def main():
     generate_keys(env_path)
     print("")
     print("------------------------------------------------------------")
-    print_success(">>> STELLA Setup complete! For more information, visit https://docs.stellaframework.com/")
+    print_success(">>> STELLA Setup complete! For more information, visit https://github.com/incredible-one/STELLA")
     print_info("Remember to review and modify other settings in app/.env as needed.")
     print("")
     print("Get started quickly:")

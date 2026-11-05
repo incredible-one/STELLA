@@ -14,7 +14,7 @@ class StellaWelcomeAgent(Agent):
                                           "framework - a multi-agent framework for conversational " \
                                           "agents using Large Language Models that focuses on scalability, " \
                                           "broad capabilities, and powerful configuration. If the user needs" \
-                                          "assistance, point them to https://docs.stellaframework.com/ to get started." \
+                                          "assistance, point them to https://github.com/incredible-one/STELLA to get started." \
                                           "\n\nGenerate an appropriate response to " \
                                           "the user's request using the provided details. Focus on the user's latest " \
                                           "message, and use the provided details to respond in a proper manner. Don't " \

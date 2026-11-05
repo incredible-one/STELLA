@@ -71,9 +71,9 @@ dev = [
 
 
 [project.urls]
-Homepage = "https://stellaframework.com/"
-Repository = "https://github.com/Norditech-AB/STELLA"
-Documentation = "https://docs.stellaframework.com/"
+Homepage = "https://www.incredible.one"
+Repository = "https://github.com/incredible-one/STELLA"
+Documentation = "https://github.com/incredible-one/STELLA"
 
 
 [project.scripts]

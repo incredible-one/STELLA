@@ -263,7 +263,7 @@ class Shell:
             return
         elif args[0] == 'help':
             print(AVAILABLE_COMMANDS)
-            print_info('For more information, visit https://docs.stellaframework.com/')
+            print_info('For more information, visit https://github.com/incredible-one/STELLA')
             print_info("To chat with agents, type a message and press enter. (do not start with '/')")
         else:
             print_error('Unknown command. Type /help for a list of commands.')
