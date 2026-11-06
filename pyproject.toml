@@ -73,7 +73,7 @@ dev = [
 [project.urls]
 Homepage = "https://www.incredible.one"
 Repository = "https://github.com/incredible-one/STELLA"
-Documentation = "https://github.com/incredible-one/STELLA"
+Documentation = "https://incredible-one.github.io/STELLA/"
 
 
 [project.scripts]
