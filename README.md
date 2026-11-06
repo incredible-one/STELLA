@@ -8,7 +8,7 @@
 
 </div>
 
-> **History:** STELLA is the first open-source project from the team behind [Incredible](https://www.incredible.one). The beta came out in January 2024 and the code is kept here as it was then. It has not been updated since, and its old documentation site is no longer online.
+> **History:** STELLA is the first open-source project from the team behind [Incredible](https://www.incredible.one). The beta came out in January 2024 and the code is kept here as it was then. It has not been updated since. The [documentation from that release](https://incredible-one.github.io/STELLA/) is still online.
 
 # Welcome to STELLA
 
